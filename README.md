@@ -11,8 +11,11 @@ Professor: Brian A. Dalio
 Execution: 
 
 1. ModelData.py needs manual reading input.
+
 So, cd.. {location}
+
 python ModelData.py bunny.txt
 
 2. constructTransform: Static inputs.
+
 python constructTransform.py
